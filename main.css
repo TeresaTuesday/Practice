@@ -1,0 +1,19 @@
+body {
+    background-color: whitesmoke;
+    /*background-image: url("images/mountains.jpg");*/
+    background-repeat: no-repeat;
+    background-size: contain;
+
+
+
+}
+
+header {
+    text-align: center;
+}
+
+.bio {
+    font-family: fantasy;
+    color: red;
+    /*text-align: center;*/
+}
